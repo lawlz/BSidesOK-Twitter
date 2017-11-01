@@ -23,13 +23,13 @@ It is sad now, help make it happy...
 
    In order for this to work, create a file with the following structure(with you secrets..) in the working directory of this script:
 
-   [mytwitterbot]
-   consumerKey=<consumer key>
-   consumerSecret=<consumer secret>
-   accessKey=<yep your git'n it>
-   accessSecret=<yes that secret too>
-   ownerName=<whats your name> 
-   ownerId=<who own this again>
+   [mytwitterbot]  
+   consumerKey=<consumer key>  
+   consumerSecret=<consumer secret>  
+   accessKey=<yep your git'n it>  
+   accessSecret=<yes that secret too>  
+   ownerName=<whats your name>  
+   ownerId=<who own this again>  
 
    Of course fill out the appropriate info in the <>, replaces those <> when you do.  
 
