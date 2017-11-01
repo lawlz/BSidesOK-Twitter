@@ -13,11 +13,11 @@ It is sad now, help make it happy...
 
 1.  Python 3
 
-   [Yes use it and love it, its not that bad](https://docs.python.org/3/)
+  *[Yes use it and love it, its not that bad](https://docs.python.org/3/)
 
 2.  Tweepy
 
-   [Find out more about Tweepy](http://tweepy.readthedocs.io/en/v3.5.0/)
+  *[Find out more about Tweepy](http://tweepy.readthedocs.io/en/v3.5.0/)
 
 3. twitter.cfg file
 
