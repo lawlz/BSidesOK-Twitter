@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-__version__ = '0.2'
+__version__ = '0.3'
 __author__ = 'Jimmy James w/ Help'
 
 # Import the config stuffs
