@@ -20,7 +20,7 @@ def twitter_auth(conf='twitter.cfg'):
 	# More details here:
 	# http://amanda.secured.org/how-to-make-a-simple-twitter-bot/
 	config = configparser.ConfigParser()
-	#Get config file from the executing directory.
+	#Ge tconfig file from the executing directory.
 	try:
 		config.readfp(open(conf))
 	except FileNotFoundError:
@@ -104,11 +104,11 @@ main()
 # result_set = api.favorites('twitter')
 # result_set = api.home_timeline()
 # status = result_set[0]
-# REALSTR = status._json.keys() 
-# print(REALSTR)
+# jsonString = status._json.keys() 
+# print(jsonString)
 
 
-# I may want to use streams...
+# I may want to use streams potentially...
 # from tweepy import Stream
 
 
