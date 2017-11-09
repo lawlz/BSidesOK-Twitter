@@ -88,7 +88,6 @@ retweetCFP = re.compile('(\s[cC][fF][pP]\sis\s(now)?\s?[oO][pP][eE][nN])')
 main()
 # I think maybe the api.search method is the way to go...
 # TODO try and use the api.search to do this and see what happens.
-# TODO make an auth def, and a retweet def
 # TODO use the api.search method to find othe BSiderz
 # TODO maybe ask for what the name of the config file is?
 # get_conf = input('Enter the config name, default is twitter.cfg')
